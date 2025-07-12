@@ -2,8 +2,6 @@
 
 A modern, responsive note-taking application built with React that allows users to create, edit, view, and manage their notes with a clean and intuitive interface.
 
-![PasteApp Screenshot](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=PasteApp+Demo)
-
 ## ✨ Features
 
 - **📝 Create Notes**: Write and save notes with titles and descriptions
